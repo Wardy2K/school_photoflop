@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/githhu.io/school_photoflop/static/css/main.bb6e8904.css",
+    "main.js": "/githhu.io/school_photoflop/static/js/main.39dd5b5b.js",
+    "static/js/787.b454aa09.chunk.js": "/githhu.io/school_photoflop/static/js/787.b454aa09.chunk.js",
+    "index.html": "/githhu.io/school_photoflop/index.html",
+    "main.bb6e8904.css.map": "/githhu.io/school_photoflop/static/css/main.bb6e8904.css.map",
+    "main.39dd5b5b.js.map": "/githhu.io/school_photoflop/static/js/main.39dd5b5b.js.map",
+    "787.b454aa09.chunk.js.map": "/githhu.io/school_photoflop/static/js/787.b454aa09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb6e8904.css",
+    "static/js/main.39dd5b5b.js"
+  ]
+}
